@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Remove-bg.ai_5",
+  "identifier": "texture:10715-8eec218f-e00e-4d95-8f5c-2cd49cb68818",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "0fcb1f4c2ffcb93367729c93415db6ec",
+  "assetLocator": "textures/Remove-bg.ai_5.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 63,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 130,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "0fcb1f4c2ffcb93367729c93415db6ec",
+      "colorCount": 2305,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.303075473846933,
+      "pixelsHigh": 63,
+      "pixelsWide": 130
+    }
+  ]
+}
